@@ -1,1 +1,1 @@
-Right now, we are working from generateData.ipynb.  The other files are old work that we may build on later. 
+generateData - JWB.ipynb is the full code framework for our project. Hope to modularize this later. 
